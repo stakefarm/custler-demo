@@ -49,6 +49,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      forceDarkMode: true,
       navbar: {
         title: 'Custler Pool',
         logo: {
