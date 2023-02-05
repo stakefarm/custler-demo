@@ -20,8 +20,6 @@ https://everpools.io/depools/0:888889c271f0aed3b6e27af96cbd4bd1adbad7f7c2e3be26d
 
 https://everpools.io/depools/0:198880de2ac28bcf71ab8082d7132d22c337879351cae8b48dd397aadf12f206
 
-Everpools.io gives 
-
 ## Step 3 — Stake
 
 On each everpool.io link above, there will be a section like the one below. Use this simple interface to stake and withdraw your EVER in Custler's DePools:
